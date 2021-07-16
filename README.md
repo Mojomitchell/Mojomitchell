@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mojomitchell
+- 👀 I’m interested in fintech, fitness and travel 
+- 🌱 I’m currently learning more about GitHub! 
